@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 num_a = input("First number: ")
 num_b = input("Second number: ")
 
